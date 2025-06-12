@@ -43,11 +43,11 @@ layout: default
         {% endif %}
 
         <p>
-          {% if page.arxiv %}
-            <a href=" {{ page.arxiv }} ">ArXiv</a>
-          {% endif %}
           {% if page.paperurl %}
-            | <a href=" {{ page.paperurl }} ">PDF</a>
+            <a href=" {{ page.paperurl }} ">PDF</a>
+          {% endif %}
+          {% if page.arxiv %}
+            | <a href=" {{ page.arxiv }} ">ArXiv</a>
           {% endif %}
           {% if page.code %}
             | <a href=" {{ page.code }} ">Code</a>
