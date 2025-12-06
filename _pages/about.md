@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Computer Science PhD student at the [Institute of AI in Management](https://www.som.lmu.de/ai/en/) at [LMU Munich](https://www.lmu.de/en/). I am advised by [Prof. Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html). I am also an affiliated member of the [Munich Center for Machine Learning (MCML)](https://www.mcml.ai/). Prior to my PhD, I completed my MSc degree at [University of Cologne](https://uni-koeln.de/en/) and my BSc at [University of Bonn](https://www.uni-bonn.de/en/home). I also gained extensive experience in industry through internships in data science/ML and consulting.
+I am a final-year Computer Science PhD student at the [Institute of AI in Management](https://www.som.lmu.de/ai/en/) at [LMU Munich](https://www.lmu.de/en/). I am advised by [Prof. Stefan Feuerriegel](https://www.som.lmu.de/ai/en/institute/contact-page/stefan-feuerriegel-840c1071.html). I am also an affiliated member of the [Munich Center for Machine Learning (MCML)](https://www.mcml.ai/). Prior to my PhD, I completed my MSc degree at [University of Cologne](https://uni-koeln.de/en/) and my BSc at [University of Bonn](https://www.uni-bonn.de/en/home). I also gained extensive experience in industry through internships in data science/ML and consulting.
 
 My current interests focus on developing and applying (causal) machine learning methods for *data-driven decision-making*, particularly in business contexts and addressing social challenges. I am also interested in the intersection of causal inference, machine learning, and social computing. I am passionate about doing work that addresses real-world problems, leading to meaningful improvements in decision-making.
 
 
 
 # News
+- **[December 2025]**: Presented my work on "Personalized Behavioral Interventions Using Causal Machine Learning" at [NYU](https://www.nyu.edu/).
+- **[November 2025]**: New preprint on [A dynamic framework for predicting customer satisfaction](https://abdumaa.github.io/publications/2025-11-18-GP/).
+- **[November 2025]**: New preprint on [Short-form video platforms drive mobile overuse](https://abdumaa.github.io/publications/2025-11-18-sfv/).
+- **[September 2025]**: New preprint on [Personalized Behavioral Interventions Using Causal Machine Learning](https://abdumaa.github.io/publications/2025-09-17-ccml/).
 - **[May 2025]**: Joined the Computer Science department of [Princeton University](https://www.princeton.edu/) for a research stay, hosted by [Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io/).
 - **[April 2025]**: Presented my work on "Data-Driven Investment Decisions for Venture Capital: A Causal Machine Learning Approach" at the Germany HQ of [Bain & Company](https://www.bain.com/) in Munich.
 - **[April 2025]**: Our paper [A fused large language model for predicting startup success](https://abdumaa.github.io/publications/2025-04-01-fused/) was published in [EJOR](https://www.sciencedirect.com/journal/european-journal-of-operational-research).
