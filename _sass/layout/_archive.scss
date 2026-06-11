@@ -48,6 +48,15 @@
   }
 }
 
+.archive__item-title--pub {
+  font-size: $type-size-5;
+  margin-bottom: 0.05em;
+
+  & ~ p:first-of-type {
+    margin-top: 0;
+  }
+}
+
 /* remove border*/
 .page__content {
 
