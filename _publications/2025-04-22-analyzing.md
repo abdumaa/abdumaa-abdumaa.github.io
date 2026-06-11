@@ -2,7 +2,7 @@
 title: "Analyzing User Characteristics of Hate Speech Spreaders on Social Media"
 collection: publications
 authors: 'D. Geissler, <b>A. Maarouf</b>, S. Feuerriegel'
-excerpt: "![analyzing](/images/analyzing.png){: style='float: left; height: 100px'}"
+#excerpt: "![analyzing](/images/analyzing.png){: style='float: left; height: 100px'}"
 date: 2025-04-22
 venue: 'The Web Conference'
 paperurl: 'http://abdumaa.github.io/files/analyzing.pdf'

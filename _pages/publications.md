@@ -6,7 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-[comment]: <> (You can also find my articles on <a href="https://scholar.google.com/citations?user=EMExrOMAAAAJ&hl=en"> Google Scholar profile</a>.)
+{% if site.author.googlescholar %}
+  <div class="wordwrap">The full publication list can be found on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+ (\* indicates equal contribution)
 
 ## Peer-reviewed
 <p>
